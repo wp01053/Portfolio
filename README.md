@@ -181,8 +181,8 @@
 ---
 
 ## 🔗 Links
-- 🧑‍💻 [개발 블로그](https://coding-oneday.tistory.com/)
-- 🧑‍💻 [개발 블로그](https://velog.io/@chjy12/posts/)
+- 🧑‍💻 [Tistory 개발 블로그](https://coding-oneday.tistory.com/)
+- 🧑‍💻 [Velog 개발 블로그](https://velog.io/@chjy12/posts/)
 - 📦 [pub.dev - open_filef](https://pub.dev/packages/open_filef)
 - 📦 [pub.dev - guard_router](https://pub.dev/packages/guard_router)
 

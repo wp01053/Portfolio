@@ -20,13 +20,13 @@
 ### 📍 Precision Bio (디지털헬스케어팀 · 주임/팀원)
 **2023.09 ~ 현재** 
 
-#### 📱 PT10 / PT10V Flutter 모바일 앱 개발 (1인 개발)
+#### 📱 PT10 / PT10V Flutter 모바일 앱 개발 
 - 자사 디지털 헬스케어 기기를 연동하는 Flutter 앱 개발
 - GetX 기반 상태관리 구조, 전반적인 UI/UX 설계 및 기능 구현
 - 기기 데이터 처리, 앱 흐름 및 API 연동 설계
 - 앱 유지보수 및 디자인 가이드 검토
 
-#### 🖥 Flutter Web 관리자 페이지 개발 (1인 개발)
+#### 🖥 Flutter Web 관리자 페이지 개발 
 - 관리자용 Flutter Web 페이지 구축 (Riverpod + Clean Architecture)
 - UI 컴포넌트 구성 및 기획 반영
 - API 연동, 권한 처리 등 웹 기반 관리 기능 구현
